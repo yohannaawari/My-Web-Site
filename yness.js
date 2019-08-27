@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Multiplication Table</title>
+  <title>Multiplication Display Table</title>
   <script type="text/javascript">
     var rows = prompt("How many rows do you want for your multiplication table?");
     var cols = prompt("How many columns are needed for your multiplication table?");
