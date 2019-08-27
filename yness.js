@@ -3,7 +3,7 @@
   <title>Multiplication Table</title>
   <script type="text/javascript">
     var rows = prompt("How many rows do you want for your multiplication table?");
-    var cols = prompt("How many columns for your multiplication table?");
+    var cols = prompt("How many columns are needed for your multiplication table?");
     if(rows == "" || rows == null)
    		 rows = 10;
     if(cols== "" || cols== null)
